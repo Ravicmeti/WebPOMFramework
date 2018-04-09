@@ -1,0 +1,27 @@
+07 Nov 12:18:22,607 INFO - Initializing ExtentReport 
+07 Nov 12:18:22,823 INFO - Initialize Global Variables 
+07 Nov 12:18:22,831 INFO - Opening Browser:chrome 
+07 Nov 12:18:31,597 INFO - Auto login 
+07 Nov 12:18:40,400 INFO - Started executing test:testAddExpense 
+07 Nov 12:19:33,616 ERROR - Test is FAILED 
+07 Nov 12:19:33,618 INFO - Auto logout 
+07 Nov 12:19:33,619 INFO - Closing Browser 
+07 Nov 12:19:35,340 INFO - Publishing ExtentReport:./report/07_11_2017_12_18_22.html 
+07 Nov 12:22:57,448 INFO - Initializing ExtentReport 
+07 Nov 12:22:57,664 INFO - Initialize Global Variables 
+07 Nov 12:22:57,676 INFO - Opening Browser:chrome 
+07 Nov 12:23:10,798 INFO - Auto login 
+07 Nov 12:23:41,222 INFO - Started executing test:testAddExpense 
+07 Nov 12:24:10,431 ERROR - Test is FAILED 
+07 Nov 12:24:10,431 INFO - Auto logout 
+07 Nov 12:24:10,431 INFO - Closing Browser 
+07 Nov 12:24:12,122 INFO - Publishing ExtentReport:./report/07_11_2017_12_22_57.html 
+07 Nov 12:24:48,575 INFO - Initializing ExtentReport 
+07 Nov 12:24:48,800 INFO - Initialize Global Variables 
+07 Nov 12:24:48,808 INFO - Opening Browser:chrome 
+07 Nov 12:24:56,937 INFO - Auto login 
+07 Nov 12:25:07,346 INFO - Started executing test:testAddExpense 
+07 Nov 12:26:22,592 ERROR - Test is FAILED 
+07 Nov 12:26:22,592 INFO - Auto logout 
+07 Nov 12:26:22,592 INFO - Closing Browser 
+07 Nov 12:26:23,999 INFO - Publishing ExtentReport:./report/07_11_2017_12_24_48.html 
